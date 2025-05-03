@@ -1,3 +1,4 @@
+#wtf
 from pygame import *
 font.init()
 font1 = font.SysFont('Times New Roman', 70)
